@@ -1,0 +1,9 @@
+{
+  "name": "fleetops-control-center-pro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-first maritime fleet operations planning application",
+  "scripts": {
+    "test": "node --test tests/engine.test.cjs"
+  }
+}
